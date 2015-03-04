@@ -1,2 +1,2 @@
 # KomicAPI-API
-KomicAPI's API for frontend.
+Komic restful API.
